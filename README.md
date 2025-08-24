@@ -1,6 +1,6 @@
 # Netflix Exploratory Data Analysis📈
 This project performs an in-depth exploratory data analysis (EDA) on a dataset of Netflix movies and TV shows to uncover key trends, patterns, and insights into the platform's content library. The analysis covers various aspects, including content distribution, temporal trends, top creators, and more, all supported by data visualizations.
-
+![Image](attachment.jpg)
 ## Project Structure
 The project is a single Jupyter Notebook (Exploratory_Data_Analysis_of_Netflix_Data.ipynb) that follows a clear, step-by-step process:
 
